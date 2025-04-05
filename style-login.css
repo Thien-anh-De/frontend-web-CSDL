@@ -196,3 +196,9 @@ footer {
   height: 20px;
   margin-right: 8px;
 }
+header a{
+  text-decoration: none;
+}
+header a:hover{
+  color:#ee4d2d;
+}
