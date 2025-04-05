@@ -1,0 +1,198 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f5f5f5;
+}
+
+.header {
+  background: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+.đăng nhập {
+  font-size: 16px;
+  color: #302dee; /* Màu chữ của Đăng nhập */
+  cursor: pointer; /* Thêm hiệu ứng con trỏ khi hover */
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #302dee;
+}
+.help-link {
+  color: #ee4d2d;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 50px 10%;
+  gap: 50px;
+}
+
+.banner img {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.login-box {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.login-box h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-box button {
+  width: 100%;
+  padding: 12px;
+  background: #302dee;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.login-box .forgot-password {
+  text-align: right;
+  margin-top: 10px;
+}
+
+.login-box .forgot-password a {
+  font-size: 14px;
+  color: #302dee;
+  text-decoration: none;
+}
+
+.or-line {
+  text-align: center;
+  margin: 20px 0;
+  color: #aaa;
+  font-size: 14px;
+}
+
+.social-login {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.social-login button {
+  width: 140px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.google {
+  background: #302dee;
+  color: white;
+}
+
+.register-text {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.register-text a {
+  color: #ee4d2d;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+  color: #777;
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #f1f1f1;
+  padding: 30px 5%;
+  margin-top: 30px;
+  border-top: 1px solid #ccc;
+}
+
+.info-column {
+  flex: 1;
+  min-width: 250px;
+  margin: 10px;
+  text-align: center; /* Căn giữa nội dung */
+}
+
+.info-column h4 {
+  margin-bottom: 15px;
+  color: #333;
+  font-weight: bold;
+}
+
+.icon-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Căn giữa các icon */
+  gap: 15px;
+}
+
+.icon-grid img {
+  width: 50px;
+  height: auto;
+  object-fit: contain;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center; /* Căn giữa các link mạng xã hội */
+  gap: 20px;
+}
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.social-icons img {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}

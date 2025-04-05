@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Trang chủ - Shop Online</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <h1>🛒 SHOP ONLINE</h1>
+    <div class="auth-links">
+      <a class="no1" href="login.html">Đăng nhập</a> | <a class="no2" href="login.html">Đăng ký</a>
+    </div>
+    <input type="text" id="searchInput" placeholder="Tìm sản phẩm...">
+  </header>
+
+  <div class="main-content">
+    <aside class="sidebar">
+      <h3>Danh mục</h3>
+      <ul id="categoryList">
+        <li onclick="filterCategory('Tất cả')">Tất cả</li>
+        <li onclick="filterCategory('Thời trang')">Thời trang</li>
+        <li onclick="filterCategory('Điện tử')">Điện tử</li>
+        <li onclick="filterCategory('Phụ kiện')">Phụ kiện</li>
+      </ul>
+    </aside>
+
+    <main class="product-list" id="productList">
+      <!-- Danh sách sản phẩm sẽ render ở đây -->
+    </main>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Shop Online. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
