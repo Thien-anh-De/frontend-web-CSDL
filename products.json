@@ -1,0 +1,2162 @@
+[
+  {
+    "product_id": "PROD0001",
+    "name": "Kem dưỡng da",
+    "price": 975065,
+    "stock": 131,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0002",
+    "name": "Son môi",
+    "price": 428482,
+    "stock": 154,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0003",
+    "name": "Kem dưỡng da",
+    "price": 115878,
+    "stock": 130,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0004",
+    "name": "Phấn phủ",
+    "price": 532219,
+    "stock": 59,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0005",
+    "name": "Phấn phủ",
+    "price": 1097857,
+    "stock": 71,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0006",
+    "name": "Kem chống nắng",
+    "price": 224581,
+    "stock": 142,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0007",
+    "name": "Son môi",
+    "price": 1579640,
+    "stock": 24,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0008",
+    "name": "Kem chống nắng",
+    "price": 1015000,
+    "stock": 67,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0009",
+    "name": "Sữa rửa mặt",
+    "price": 1572121,
+    "stock": 140,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0010",
+    "name": "Phấn phủ",
+    "price": 1464682,
+    "stock": 77,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0011",
+    "name": "Phấn phủ",
+    "price": 1893433,
+    "stock": 169,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0012",
+    "name": "Kem chống nắng",
+    "price": 232144,
+    "stock": 194,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0013",
+    "name": "Phấn phủ",
+    "price": 339067,
+    "stock": 120,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0014",
+    "name": "Kem dưỡng da",
+    "price": 1709290,
+    "stock": 176,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0015",
+    "name": "Son môi",
+    "price": 1238143,
+    "stock": 44,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0016",
+    "name": "Kem chống nắng",
+    "price": 1122737,
+    "stock": 75,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0017",
+    "name": "Kem chống nắng",
+    "price": 1916980,
+    "stock": 66,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0018",
+    "name": "Phấn phủ",
+    "price": 1732002,
+    "stock": 74,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0019",
+    "name": "Kem chống nắng",
+    "price": 1853830,
+    "stock": 93,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0020",
+    "name": "Son môi",
+    "price": 306450,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP001",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0021",
+    "name": "Phấn phủ",
+    "price": 103864,
+    "stock": 65,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0022",
+    "name": "Phấn phủ",
+    "price": 751405,
+    "stock": 115,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0023",
+    "name": "Kem chống nắng",
+    "price": 1090063,
+    "stock": 15,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0024",
+    "name": "Phấn phủ",
+    "price": 1445003,
+    "stock": 74,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0025",
+    "name": "Son môi",
+    "price": 373060,
+    "stock": 27,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0026",
+    "name": "Son môi",
+    "price": 1046429,
+    "stock": 160,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0027",
+    "name": "Kem chống nắng",
+    "price": 1423533,
+    "stock": 164,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0028",
+    "name": "Son môi",
+    "price": 1679170,
+    "stock": 83,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0029",
+    "name": "Phấn phủ",
+    "price": 1631468,
+    "stock": 13,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0030",
+    "name": "Kem chống nắng",
+    "price": 441715,
+    "stock": 72,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0031",
+    "name": "Kem chống nắng",
+    "price": 1911366,
+    "stock": 179,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0032",
+    "name": "Kem chống nắng",
+    "price": 872654,
+    "stock": 187,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0033",
+    "name": "Kem dưỡng da",
+    "price": 517069,
+    "stock": 105,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0034",
+    "name": "Kem chống nắng",
+    "price": 1254384,
+    "stock": 110,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0035",
+    "name": "Kem dưỡng da",
+    "price": 1814306,
+    "stock": 42,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0036",
+    "name": "Son môi",
+    "price": 408679,
+    "stock": 63,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0037",
+    "name": "Kem dưỡng da",
+    "price": 251154,
+    "stock": 34,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0038",
+    "name": "Son môi",
+    "price": 893844,
+    "stock": 70,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0039",
+    "name": "Sữa rửa mặt",
+    "price": 1609081,
+    "stock": 187,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0040",
+    "name": "Phấn phủ",
+    "price": 728521,
+    "stock": 171,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP002",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0041",
+    "name": "Son môi",
+    "price": 250228,
+    "stock": 199,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0042",
+    "name": "Son môi",
+    "price": 1466834,
+    "stock": 79,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0043",
+    "name": "Kem dưỡng da",
+    "price": 975431,
+    "stock": 16,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0044",
+    "name": "Sữa rửa mặt",
+    "price": 1566390,
+    "stock": 85,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0045",
+    "name": "Kem dưỡng da",
+    "price": 1346414,
+    "stock": 131,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0046",
+    "name": "Kem dưỡng da",
+    "price": 1951969,
+    "stock": 121,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0047",
+    "name": "Kem chống nắng",
+    "price": 827933,
+    "stock": 188,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0048",
+    "name": "Phấn phủ",
+    "price": 1371779,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0049",
+    "name": "Phấn phủ",
+    "price": 1189798,
+    "stock": 94,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0050",
+    "name": "Sữa rửa mặt",
+    "price": 780554,
+    "stock": 129,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0051",
+    "name": "Kem dưỡng da",
+    "price": 732924,
+    "stock": 111,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0052",
+    "name": "Phấn phủ",
+    "price": 1872285,
+    "stock": 86,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0053",
+    "name": "Kem chống nắng",
+    "price": 433076,
+    "stock": 86,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0054",
+    "name": "Phấn phủ",
+    "price": 822290,
+    "stock": 53,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4515/4515899.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0055",
+    "name": "Kem dưỡng da",
+    "price": 451144,
+    "stock": 71,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0056",
+    "name": "Son môi",
+    "price": 993411,
+    "stock": 187,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0057",
+    "name": "Son môi",
+    "price": 791295,
+    "stock": 88,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3771/3771506.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0058",
+    "name": "Sữa rửa mặt",
+    "price": 354654,
+    "stock": 132,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0059",
+    "name": "Kem chống nắng",
+    "price": 1805030,
+    "stock": 55,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0060",
+    "name": "Sữa rửa mặt",
+    "price": 1855134,
+    "stock": 163,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/994/994928.png",
+    "supplier_id": "SUP003",
+    "category": "Mỹ phẩm"
+  },
+  {
+    "product_id": "PROD0061",
+    "name": "Loa bluetooth",
+    "price": 265163,
+    "stock": 180,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0062",
+    "name": "Tai nghe",
+    "price": 319102,
+    "stock": 69,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0063",
+    "name": "Sạc dự phòng",
+    "price": 435072,
+    "stock": 141,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0064",
+    "name": "Chuột không dây",
+    "price": 670207,
+    "stock": 103,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0065",
+    "name": "Tai nghe",
+    "price": 152826,
+    "stock": 49,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0066",
+    "name": "Sạc dự phòng",
+    "price": 267453,
+    "stock": 115,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0067",
+    "name": "Sạc dự phòng",
+    "price": 1734096,
+    "stock": 157,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0068",
+    "name": "Bàn phím cơ",
+    "price": 1421907,
+    "stock": 66,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0069",
+    "name": "Chuột không dây",
+    "price": 1977091,
+    "stock": 170,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0070",
+    "name": "Bàn phím cơ",
+    "price": 142963,
+    "stock": 31,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0071",
+    "name": "Tai nghe",
+    "price": 910438,
+    "stock": 24,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0072",
+    "name": "Chuột không dây",
+    "price": 1120156,
+    "stock": 129,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0073",
+    "name": "Loa bluetooth",
+    "price": 306161,
+    "stock": 188,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0074",
+    "name": "Bàn phím cơ",
+    "price": 1543928,
+    "stock": 113,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0075",
+    "name": "Chuột không dây",
+    "price": 785599,
+    "stock": 122,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0076",
+    "name": "Bàn phím cơ",
+    "price": 1573782,
+    "stock": 114,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0077",
+    "name": "Bàn phím cơ",
+    "price": 1921225,
+    "stock": 163,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0078",
+    "name": "Tai nghe",
+    "price": 944305,
+    "stock": 83,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0079",
+    "name": "Tai nghe",
+    "price": 1985239,
+    "stock": 39,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0080",
+    "name": "Chuột không dây",
+    "price": 1697021,
+    "stock": 39,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP004",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0081",
+    "name": "Chuột không dây",
+    "price": 227794,
+    "stock": 83,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0082",
+    "name": "Tai nghe",
+    "price": 1444445,
+    "stock": 200,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0083",
+    "name": "Sạc dự phòng",
+    "price": 1217808,
+    "stock": 88,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0084",
+    "name": "Bàn phím cơ",
+    "price": 1791227,
+    "stock": 123,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0085",
+    "name": "Sạc dự phòng",
+    "price": 1374680,
+    "stock": 18,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0086",
+    "name": "Tai nghe",
+    "price": 547215,
+    "stock": 24,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0087",
+    "name": "Bàn phím cơ",
+    "price": 586118,
+    "stock": 186,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0088",
+    "name": "Loa bluetooth",
+    "price": 596282,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0089",
+    "name": "Tai nghe",
+    "price": 747888,
+    "stock": 114,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0090",
+    "name": "Chuột không dây",
+    "price": 1645240,
+    "stock": 73,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0091",
+    "name": "Tai nghe",
+    "price": 378407,
+    "stock": 109,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0092",
+    "name": "Bàn phím cơ",
+    "price": 1423371,
+    "stock": 61,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0093",
+    "name": "Sạc dự phòng",
+    "price": 1704524,
+    "stock": 161,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0094",
+    "name": "Sạc dự phòng",
+    "price": 1505033,
+    "stock": 158,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0095",
+    "name": "Sạc dự phòng",
+    "price": 103449,
+    "stock": 131,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0096",
+    "name": "Tai nghe",
+    "price": 560179,
+    "stock": 51,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0097",
+    "name": "Loa bluetooth",
+    "price": 486827,
+    "stock": 146,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0098",
+    "name": "Loa bluetooth",
+    "price": 788412,
+    "stock": 158,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0099",
+    "name": "Tai nghe",
+    "price": 1762731,
+    "stock": 177,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0100",
+    "name": "Loa bluetooth",
+    "price": 248018,
+    "stock": 84,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP005",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0101",
+    "name": "Loa bluetooth",
+    "price": 1062468,
+    "stock": 175,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0102",
+    "name": "Chuột không dây",
+    "price": 995401,
+    "stock": 80,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0103",
+    "name": "Bàn phím cơ",
+    "price": 672972,
+    "stock": 59,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0104",
+    "name": "Sạc dự phòng",
+    "price": 641327,
+    "stock": 51,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0105",
+    "name": "Tai nghe",
+    "price": 1262987,
+    "stock": 141,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0106",
+    "name": "Loa bluetooth",
+    "price": 1069993,
+    "stock": 122,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0107",
+    "name": "Chuột không dây",
+    "price": 961561,
+    "stock": 139,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0108",
+    "name": "Tai nghe",
+    "price": 361909,
+    "stock": 116,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0109",
+    "name": "Bàn phím cơ",
+    "price": 539173,
+    "stock": 136,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0110",
+    "name": "Sạc dự phòng",
+    "price": 340338,
+    "stock": 84,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0111",
+    "name": "Chuột không dây",
+    "price": 866577,
+    "stock": 30,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0112",
+    "name": "Chuột không dây",
+    "price": 1177511,
+    "stock": 95,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0113",
+    "name": "Bàn phím cơ",
+    "price": 1689512,
+    "stock": 94,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0114",
+    "name": "Tai nghe",
+    "price": 804826,
+    "stock": 147,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0115",
+    "name": "Loa bluetooth",
+    "price": 1733195,
+    "stock": 119,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0116",
+    "name": "Sạc dự phòng",
+    "price": 455751,
+    "stock": 61,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0117",
+    "name": "Sạc dự phòng",
+    "price": 493061,
+    "stock": 12,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0118",
+    "name": "Loa bluetooth",
+    "price": 1859641,
+    "stock": 14,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0119",
+    "name": "Chuột không dây",
+    "price": 221387,
+    "stock": 83,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0120",
+    "name": "Tai nghe",
+    "price": 1054999,
+    "stock": 54,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP006",
+    "category": "Đồ điện tử"
+  },
+  {
+    "product_id": "PROD0121",
+    "name": "Giày sneaker",
+    "price": 624341,
+    "stock": 44,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0122",
+    "name": "Váy",
+    "price": 607251,
+    "stock": 140,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0123",
+    "name": "Quần jean",
+    "price": 437920,
+    "stock": 122,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0124",
+    "name": "Áo thun",
+    "price": 1609331,
+    "stock": 109,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0125",
+    "name": "Áo thun",
+    "price": 1691332,
+    "stock": 145,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0126",
+    "name": "Túi xách",
+    "price": 1790759,
+    "stock": 94,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0127",
+    "name": "Váy",
+    "price": 599360,
+    "stock": 176,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0128",
+    "name": "Quần jean",
+    "price": 1563476,
+    "stock": 24,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0129",
+    "name": "Giày sneaker",
+    "price": 1729513,
+    "stock": 14,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0130",
+    "name": "Quần jean",
+    "price": 548683,
+    "stock": 48,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0131",
+    "name": "Váy",
+    "price": 1821741,
+    "stock": 191,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0132",
+    "name": "Quần jean",
+    "price": 285767,
+    "stock": 90,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0133",
+    "name": "Áo thun",
+    "price": 508071,
+    "stock": 28,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0134",
+    "name": "Quần jean",
+    "price": 159918,
+    "stock": 189,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0135",
+    "name": "Áo thun",
+    "price": 1830802,
+    "stock": 31,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0136",
+    "name": "Quần jean",
+    "price": 1820946,
+    "stock": 15,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0137",
+    "name": "Váy",
+    "price": 1186787,
+    "stock": 198,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0138",
+    "name": "Váy",
+    "price": 1325105,
+    "stock": 14,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0139",
+    "name": "Quần jean",
+    "price": 900275,
+    "stock": 75,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0140",
+    "name": "Váy",
+    "price": 1006925,
+    "stock": 29,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP007",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0141",
+    "name": "Quần jean",
+    "price": 580946,
+    "stock": 76,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0142",
+    "name": "Áo thun",
+    "price": 167420,
+    "stock": 109,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0143",
+    "name": "Giày sneaker",
+    "price": 310675,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0144",
+    "name": "Quần jean",
+    "price": 1203266,
+    "stock": 22,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0145",
+    "name": "Áo thun",
+    "price": 1732144,
+    "stock": 146,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0146",
+    "name": "Giày sneaker",
+    "price": 584647,
+    "stock": 107,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0147",
+    "name": "Giày sneaker",
+    "price": 1854509,
+    "stock": 112,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0148",
+    "name": "Áo thun",
+    "price": 1506947,
+    "stock": 38,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0149",
+    "name": "Áo thun",
+    "price": 1185599,
+    "stock": 161,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0150",
+    "name": "Túi xách",
+    "price": 1926235,
+    "stock": 199,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0151",
+    "name": "Giày sneaker",
+    "price": 499232,
+    "stock": 106,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0152",
+    "name": "Túi xách",
+    "price": 388053,
+    "stock": 177,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0153",
+    "name": "Áo thun",
+    "price": 886360,
+    "stock": 19,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0154",
+    "name": "Váy",
+    "price": 273116,
+    "stock": 149,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0155",
+    "name": "Giày sneaker",
+    "price": 1581428,
+    "stock": 85,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0156",
+    "name": "Quần jean",
+    "price": 1825442,
+    "stock": 10,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0157",
+    "name": "Giày sneaker",
+    "price": 1087802,
+    "stock": 122,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0158",
+    "name": "Túi xách",
+    "price": 1690337,
+    "stock": 113,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0159",
+    "name": "Áo thun",
+    "price": 1367559,
+    "stock": 117,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0160",
+    "name": "Váy",
+    "price": 826572,
+    "stock": 136,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP008",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0161",
+    "name": "Quần jean",
+    "price": 1662242,
+    "stock": 22,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0162",
+    "name": "Giày sneaker",
+    "price": 405750,
+    "stock": 97,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0163",
+    "name": "Quần jean",
+    "price": 1586221,
+    "stock": 144,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0164",
+    "name": "Giày sneaker",
+    "price": 458535,
+    "stock": 90,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0165",
+    "name": "Túi xách",
+    "price": 1101649,
+    "stock": 175,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0166",
+    "name": "Túi xách",
+    "price": 1417680,
+    "stock": 199,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0167",
+    "name": "Áo thun",
+    "price": 1703175,
+    "stock": 43,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0168",
+    "name": "Giày sneaker",
+    "price": 1134092,
+    "stock": 167,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0169",
+    "name": "Túi xách",
+    "price": 1541565,
+    "stock": 163,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0170",
+    "name": "Quần jean",
+    "price": 298991,
+    "stock": 159,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0171",
+    "name": "Quần jean",
+    "price": 516695,
+    "stock": 115,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0172",
+    "name": "Váy",
+    "price": 1360807,
+    "stock": 69,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0173",
+    "name": "Váy",
+    "price": 732314,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0174",
+    "name": "Váy",
+    "price": 1058768,
+    "stock": 73,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0175",
+    "name": "Áo thun",
+    "price": 621527,
+    "stock": 21,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0176",
+    "name": "Giày sneaker",
+    "price": 1331757,
+    "stock": 124,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0177",
+    "name": "Túi xách",
+    "price": 1945630,
+    "stock": 180,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0178",
+    "name": "Túi xách",
+    "price": 1869585,
+    "stock": 21,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0179",
+    "name": "Giày sneaker",
+    "price": 147457,
+    "stock": 50,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0180",
+    "name": "Túi xách",
+    "price": 1983184,
+    "stock": 180,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP009",
+    "category": "Thời trang"
+  },
+  {
+    "product_id": "PROD0181",
+    "name": "Bìa hồ sơ",
+    "price": 1476138,
+    "stock": 128,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0182",
+    "name": "Thước kẻ",
+    "price": 1090707,
+    "stock": 26,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0183",
+    "name": "Sổ tay",
+    "price": 866887,
+    "stock": 17,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0184",
+    "name": "Thước kẻ",
+    "price": 165202,
+    "stock": 158,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0185",
+    "name": "Bìa hồ sơ",
+    "price": 885940,
+    "stock": 148,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0186",
+    "name": "Bìa hồ sơ",
+    "price": 1964425,
+    "stock": 135,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0187",
+    "name": "Thước kẻ",
+    "price": 1965566,
+    "stock": 151,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0188",
+    "name": "Kẹp giấy",
+    "price": 595363,
+    "stock": 63,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0189",
+    "name": "Thước kẻ",
+    "price": 475190,
+    "stock": 169,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0190",
+    "name": "Kẹp giấy",
+    "price": 1563496,
+    "stock": 81,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0191",
+    "name": "Kẹp giấy",
+    "price": 1969202,
+    "stock": 75,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0192",
+    "name": "Kẹp giấy",
+    "price": 883890,
+    "stock": 148,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0193",
+    "name": "Thước kẻ",
+    "price": 485159,
+    "stock": 163,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0194",
+    "name": "Kẹp giấy",
+    "price": 670194,
+    "stock": 147,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0195",
+    "name": "Bút bi",
+    "price": 1861517,
+    "stock": 174,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0196",
+    "name": "Sổ tay",
+    "price": 170338,
+    "stock": 181,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0197",
+    "name": "Sổ tay",
+    "price": 1502836,
+    "stock": 14,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0198",
+    "name": "Kẹp giấy",
+    "price": 993185,
+    "stock": 196,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0199",
+    "name": "Sổ tay",
+    "price": 1475330,
+    "stock": 91,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0200",
+    "name": "Sổ tay",
+    "price": 606920,
+    "stock": 53,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP010",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0201",
+    "name": "Sổ tay",
+    "price": 308275,
+    "stock": 51,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0202",
+    "name": "Thước kẻ",
+    "price": 1352443,
+    "stock": 189,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0203",
+    "name": "Bìa hồ sơ",
+    "price": 423089,
+    "stock": 52,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0204",
+    "name": "Kẹp giấy",
+    "price": 385763,
+    "stock": 184,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0205",
+    "name": "Kẹp giấy",
+    "price": 296055,
+    "stock": 42,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0206",
+    "name": "Thước kẻ",
+    "price": 635645,
+    "stock": 165,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0207",
+    "name": "Bìa hồ sơ",
+    "price": 751970,
+    "stock": 166,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0208",
+    "name": "Sổ tay",
+    "price": 253745,
+    "stock": 191,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0209",
+    "name": "Sổ tay",
+    "price": 1315882,
+    "stock": 57,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0210",
+    "name": "Kẹp giấy",
+    "price": 1691665,
+    "stock": 118,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0211",
+    "name": "Thước kẻ",
+    "price": 1703935,
+    "stock": 62,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0212",
+    "name": "Bìa hồ sơ",
+    "price": 876576,
+    "stock": 23,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0213",
+    "name": "Bút bi",
+    "price": 1928257,
+    "stock": 115,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0214",
+    "name": "Bút bi",
+    "price": 1360855,
+    "stock": 154,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0215",
+    "name": "Bút bi",
+    "price": 206398,
+    "stock": 90,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0216",
+    "name": "Bút bi",
+    "price": 831712,
+    "stock": 28,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0217",
+    "name": "Thước kẻ",
+    "price": 691969,
+    "stock": 146,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0218",
+    "name": "Bút bi",
+    "price": 1510142,
+    "stock": 156,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0219",
+    "name": "Kẹp giấy",
+    "price": 684775,
+    "stock": 49,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0220",
+    "name": "Sổ tay",
+    "price": 746194,
+    "stock": 92,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP011",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0221",
+    "name": "Thước kẻ",
+    "price": 175745,
+    "stock": 63,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0222",
+    "name": "Kẹp giấy",
+    "price": 380940,
+    "stock": 108,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0223",
+    "name": "Bìa hồ sơ",
+    "price": 1430626,
+    "stock": 125,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0224",
+    "name": "Kẹp giấy",
+    "price": 746635,
+    "stock": 21,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0225",
+    "name": "Sổ tay",
+    "price": 1369796,
+    "stock": 177,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0226",
+    "name": "Bút bi",
+    "price": 249212,
+    "stock": 150,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0227",
+    "name": "Kẹp giấy",
+    "price": 678599,
+    "stock": 105,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0228",
+    "name": "Bút bi",
+    "price": 1839441,
+    "stock": 39,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0229",
+    "name": "Sổ tay",
+    "price": 1954393,
+    "stock": 110,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0230",
+    "name": "Bút bi",
+    "price": 1305591,
+    "stock": 150,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0231",
+    "name": "Sổ tay",
+    "price": 358536,
+    "stock": 199,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0232",
+    "name": "Bút bi",
+    "price": 1781136,
+    "stock": 182,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0233",
+    "name": "Bút bi",
+    "price": 338117,
+    "stock": 30,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0234",
+    "name": "Sổ tay",
+    "price": 743096,
+    "stock": 77,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0235",
+    "name": "Bút bi",
+    "price": 1455353,
+    "stock": 76,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0236",
+    "name": "Kẹp giấy",
+    "price": 1553425,
+    "stock": 48,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0237",
+    "name": "Bút bi",
+    "price": 143506,
+    "stock": 69,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0238",
+    "name": "Bút bi",
+    "price": 238175,
+    "stock": 123,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0239",
+    "name": "Bút bi",
+    "price": 677021,
+    "stock": 100,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  },
+  {
+    "product_id": "PROD0240",
+    "name": "Bìa hồ sơ",
+    "price": 646651,
+    "stock": 14,
+    "image_url": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+    "supplier_id": "SUP012",
+    "category": "Văn phòng phẩm"
+  }
+]
