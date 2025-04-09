@@ -4,14 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Trang chủ - Shop Online</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
   <header class="navbar">
     <h1>🛒 SHOP ONLINE</h1>
     <div class="auth-links">
-      <a class="no1" href="login.html">Đăng nhập</a> | <a class="no2" href="login.html">Đăng ký</a>
-      <a class="cart-link" href="cart.html">🛒 Giỏ hàng</a>
+      <a class="no1" href="{{ url_for('login') }}">Đăng nhập</a> | 
+      <a class="no2" href="{{ url_for('register') }}">Đăng ký</a>
+      <a class="cart-link" href="{{ url_for('cart') }}">🛒 Giỏ hàng</a>
+
     </div>
     <input type="text" id="searchInput" placeholder="Tìm sản phẩm...">
   </header>
@@ -38,6 +40,6 @@
     <p>&copy; 2025 Shop Online. All rights reserved.</p>
   </footer>
 
-  <script src="script.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
