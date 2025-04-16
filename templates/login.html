@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Đăng nhập - Shop Online</title>
-  <link rel="stylesheet" href="static\style-login.css" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style-login.css') }}" />
 </head>
 <body>
   <header class="header">
@@ -14,7 +14,8 @@
 
   <div class="container">
     <div class="banner">
-      <img src="ảnh khác\logo.png" alt="Shop online">
+      <!-- Đảm bảo rằng ảnh logo nằm trong thư mục static/ảnh khác -->
+      <img src="{{ url_for('static', filename='ảnh khác/logo.png') }}" alt="Shop online">
     </div>
 
     <div class="login-box">
@@ -38,7 +39,7 @@
       </div>
 
       <div class="register-text">
-        Bạn mới biết đến Shop Online? <a href="register.html">Đăng ký</a>
+        Bạn mới biết đến Shop Online? <a href="{{ url_for('register') }}">Đăng ký</a>
       </div>
     </div>
   </div>
@@ -47,27 +48,29 @@
     <div class="info-column">
       <h4>THANH TOÁN</h4>
       <div class="icon-grid">
-        <img src="thanh toán/visa.png" alt="Visa">
-        <img src="thanh toán/mastercard.png" alt="MasterCard">
-        <img src="thanh toán/jcb.jpeg" alt="JCB">
-        <img src="thanh toán/amx.png" alt="Amex">
-        <img src="thanh toán/ship-cod.jpeg" alt="COD">
-        <img src="thanh toán/momo.png" alt="momo">
-        <img src="thanh toán/zalopay.png" alt="zalopay">
+        <!-- Đảm bảo rằng các ảnh thanh toán nằm trong thư mục static/thanh toán -->
+        <img src="{{ url_for('static', filename='thanh toán/visa.png') }}" alt="Visa">
+        <img src="{{ url_for('static', filename='thanh toán/mastercard.png') }}" alt="MasterCard">
+        <img src="{{ url_for('static', filename='thanh toán/jcb.jpeg') }}" alt="JCB">
+        <img src="{{ url_for('static', filename='thanh toán/amx.png') }}" alt="Amex">
+        <img src="{{ url_for('static', filename='thanh toán/ship-cod.jpeg') }}" alt="COD">
+        <img src="{{ url_for('static', filename='thanh toán/momo.png') }}" alt="momo">
+        <img src="{{ url_for('static', filename='thanh toán/zalopay.png') }}" alt="zalopay">
       </div>
     </div>
 
     <div class="info-column">
       <h4>VẬN CHUYỂN</h4>
       <div class="icon-grid">
-        <img src="vận chuyển/spx.jpeg" alt="SPX">
-        <img src="vận chuyển/GHN.png" alt="GHN">
-        <img src="vận chuyển/viettel post.png" alt="Viettel Post">
-        <img src="vận chuyển/vn post.png" alt="VNPost">
-        <img src="vận chuyển/j&t.png" alt="J&T Express">
-        <img src="vận chuyển/grab e.png" alt="GrabExpress">
-        <img src="vận chuyển/ninjavan.png" alt="Ninja Van">
-        <img src="vận chuyển/ahamove.png" alt="Ahamove">
+        <!-- Đảm bảo rằng các ảnh vận chuyển nằm trong thư mục static/vận chuyển -->
+        <img src="{{ url_for('static', filename='vận chuyển/spx.jpeg') }}" alt="SPX">
+        <img src="{{ url_for('static', filename='vận chuyển/GHN.png') }}" alt="GHN">
+        <img src="{{ url_for('static', filename='vận chuyển/viettel post.png') }}" alt="Viettel Post">
+        <img src="{{ url_for('static', filename='vận chuyển/vn post.png') }}" alt="VNPost">
+        <img src="{{ url_for('static', filename='vận chuyển/j&t.png') }}" alt="J&T Express">
+        <img src="{{ url_for('static', filename='vận chuyển/grab e.png') }}" alt="GrabExpress">
+        <img src="{{ url_for('static', filename='vận chuyển/ninjavan.png') }}" alt="Ninja Van">
+        <img src="{{ url_for('static', filename='vận chuyển/ahamove.png') }}" alt="Ahamove">
       </div>
     </div>
 
@@ -75,13 +78,13 @@
       <h4>THEO DÕI SHOP ONLINE</h4>
       <div class="social-icons">
         <a href="https://www.facebook.com/thienanh.hoang.988" target="_blank">
-          <img src="ảnh khác\facebook.png" alt="Facebook"> Facebook
+          <img src="{{ url_for('static', filename='ảnh khác/facebook.png') }}" alt="Facebook"> Facebook
         </a>
         <a href="https://www.instagram.com/thienanh.hoang.988?igsh=dHZqNWpoaGhlNTRn" target="_blank">
-          <img src="ảnh khác\ins.jpeg" alt="Instagram"> Instagram
+          <img src="{{ url_for('static', filename='ảnh khác/ins.jpeg') }}" alt="Instagram"> Instagram
         </a>
         <a href="https://www.threads.net/@thienanh.hoang.988" target="_blank">
-          <img src="ảnh khác\thread.png" alt="Thread"> Threads
+          <img src="{{ url_for('static', filename='ảnh khác/thread.png') }}" alt="Thread"> Threads
         </a>
       </div>
     </div>

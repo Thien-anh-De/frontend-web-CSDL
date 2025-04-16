@@ -20,7 +20,9 @@ def login():
 @app.route('/register')
 def register():
     return render_template("register.html")
-
+@app.route('/home_loggedin')
+def home_loggedin():
+    return render_template("home_loggedin.html")
 # Route cho giỏ hàng
 @app.route('/cart')
 def cart():
